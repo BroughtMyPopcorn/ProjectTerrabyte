@@ -1,4 +1,3 @@
-console.log("foo");
 var socket = io();
 
 var movement = {
